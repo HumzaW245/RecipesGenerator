@@ -1,4 +1,7 @@
 # RecipesGenerator
+
+Link to dataset: https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
+
 Generate recipes based on passed in ingredients and produce nutritional data analysis of top recipes generated.
 See RecipesDataForGithub.ipynb notebook for examples of usage. 
 
